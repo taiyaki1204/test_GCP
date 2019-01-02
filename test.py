@@ -1,5 +1,6 @@
-#import pandas as pd
-#上記では失敗変な文字がはおいった？
+#
+# show train and test data
+#
 import pandas as pd
 import numpy as np
 
